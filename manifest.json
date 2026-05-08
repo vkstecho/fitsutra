@@ -45,39 +45,39 @@
   ],
   "screenshots": [
     {
-      "src": "screenshots/dashboard-mobile.png",
+      "src": "screenshots/dashboard.png",
       "sizes": "1080x2340",
       "type": "image/png",
       "form_factor": "narrow",
       "label": "Dashboard with daily progress"
     },
     {
-      "src": "screenshots/food-log-mobile.png",
+      "src": "screenshots/Food.png",
       "sizes": "1080x2340",
       "type": "image/png",
       "form_factor": "narrow",
       "label": "Food log with Indian dishes"
     },
     {
-      "src": "screenshots/water-mobile.png",
+      "src": "screenshots/water.png",
       "sizes": "1080x2340",
       "type": "image/png",
       "form_factor": "narrow",
       "label": "Water tracker with reminders"
     },
     {
-      "src": "screenshots/dashboard-desktop.png",
-      "sizes": "1920x1080",
+      "src": "screenshots/exercise.png",
+      "sizes": "1080x2340",
       "type": "image/png",
-      "form_factor": "wide",
-      "label": "FitSutra Dashboard"
+      "form_factor": "narrow",
+      "label": "Exercise and workout sessions"
     },
     {
-      "src": "screenshots/coach-desktop.png",
-      "sizes": "1920x1080",
+      "src": "screenshots/profile.png",
+      "sizes": "1080x2340",
       "type": "image/png",
-      "form_factor": "wide",
-      "label": "AI nutrition coach"
+      "form_factor": "narrow",
+      "label": "Profile and progress stats"
     }
   ],
   "shortcuts": [
