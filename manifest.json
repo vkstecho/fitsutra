@@ -19,62 +19,62 @@
   },
   "icons": [
     {
-      "src": "icon-192.png",
-      "sizes": "192x192",
+      "src": "icon-96-1.png",
+      "sizes": "96x96",
       "type": "image/png",
       "purpose": "any"
     },
     {
-      "src": "icon-512.png",
-      "sizes": "512x512",
-      "type": "image/png",
-      "purpose": "any"
-    },
-    {
-      "src": "icon-maskable-192.png",
+      "src": "icon-192-1.png",
       "sizes": "192x192",
       "type": "image/png",
-      "purpose": "maskable"
+      "purpose": "any maskable"
     },
     {
-      "src": "icon-maskable-512.png",
+      "src": "icon-512-1.png",
       "sizes": "512x512",
       "type": "image/png",
-      "purpose": "maskable"
+      "purpose": "any maskable"
+    },
+    {
+      "src": "apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png",
+      "purpose": "any"
     }
   ],
   "screenshots": [
     {
       "src": "screenshots/dashboard.png",
-      "sizes": "1080x2340",
+      "sizes": "1080x2400",
       "type": "image/png",
       "form_factor": "narrow",
       "label": "Dashboard with daily progress"
     },
     {
       "src": "screenshots/Food.png",
-      "sizes": "1080x2340",
+      "sizes": "1080x2400",
       "type": "image/png",
       "form_factor": "narrow",
       "label": "Food log with Indian dishes"
     },
     {
       "src": "screenshots/water.png",
-      "sizes": "1080x2340",
+      "sizes": "1080x2400",
       "type": "image/png",
       "form_factor": "narrow",
       "label": "Water tracker with reminders"
     },
     {
       "src": "screenshots/exercise.png",
-      "sizes": "1080x2340",
+      "sizes": "1080x2400",
       "type": "image/png",
       "form_factor": "narrow",
       "label": "Exercise and workout sessions"
     },
     {
       "src": "screenshots/profile.png",
-      "sizes": "1080x2340",
+      "sizes": "1080x2400",
       "type": "image/png",
       "form_factor": "narrow",
       "label": "Profile and progress stats"
@@ -86,21 +86,21 @@
       "short_name": "Food",
       "description": "Quickly log a meal",
       "url": "/?action=food",
-      "icons": [{ "src": "icon-192.png", "sizes": "192x192" }]
+      "icons": [{ "src": "icon-192-1.png", "sizes": "192x192" }]
     },
     {
       "name": "Log Water",
       "short_name": "Water",
       "description": "Add water intake",
       "url": "/?action=water",
-      "icons": [{ "src": "icon-192.png", "sizes": "192x192" }]
+      "icons": [{ "src": "icon-192-1.png", "sizes": "192x192" }]
     },
     {
       "name": "Workout",
       "short_name": "Exercise",
       "description": "Start an exercise session",
       "url": "/?action=exercise",
-      "icons": [{ "src": "icon-192.png", "sizes": "192x192" }]
+      "icons": [{ "src": "icon-192-1.png", "sizes": "192x192" }]
     }
   ]
 }
