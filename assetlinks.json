@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "com.vkstech.fitsutra",
+        "sha256_cert_fingerprints": ["23:67:70:00:C7:D1:D9:8A:CD:BA:B7:50:F8:0E:55:D3:8B:FE:3C:EA:9C:30:28:81:33:C6:6C:75:1B:9A:1F:99"]
+      }
+    }]
